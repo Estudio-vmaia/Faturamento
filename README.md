@@ -1,6 +1,10 @@
 # Faturamento
 Sistema de Faturamento
 
+Linguagens: PHP, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, AJAX
+DB: MySql
+Template: Admin-k
+
 Função básica deste framework é listar as tabelas da base MySql e criar as páginas e filtros com CRUD.
 
 - Menu criado dinamicamente listando as tabelas do Banco;
