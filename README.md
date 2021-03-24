@@ -14,7 +14,8 @@ Função básica deste framework é listar as tabelas da base MySql e criar as p
 - Resultado do filtro a direita criado a pertir da relação das tabelas;
 - Quando existe chave entre as tabelas o sistema cria os combos/selects com as relações necesssárias;
 - CRUD dinâmico; 
-- Sistema em desenvolvimento
+
+"Sistema em desenvolvimento"...
 
 Link: https://www.vmaia.com.br/faturamento.git/
 
